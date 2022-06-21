@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Route {
+class Route {
 
     Integer id;
     ArrayList<Double> start;
